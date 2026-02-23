@@ -32,12 +32,17 @@ The focus was on improving **clarity, usability, and business insight communicat
 - Interactive visuals and slicers
 - Report page tooltips
 - Dashboard layout and UX design
+www.linkedin.com/in/firose1996
+
 
 ---
 
 ## 🔗 Live Dashboard Link
 👉 **Power BI Report:**  
 https://app.powerbi.com/view?r=eyJrIjoiODlkOGVjYmMtZmJmMy00MTQ1LWE5M2MtZmQ2ODg1MDdiZDYwIiwidCI6IjcwNGE1OTA5LTk5MGYtNDhkMi1hMTdmLTEyMzIyODUyNWUxYiJ9
+## 🔗 LinkeIn Link
+👉 **Power BI :**  www.linkedin.com/in/firose1996
+
 
 ---
 
